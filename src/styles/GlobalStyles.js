@@ -23,5 +23,8 @@ export const GlobalStyles = createGlobalStyle`
         text-decoration: none;
         color: inherit;
     }
-
+    body{
+        background-color:#333;
+        color: aliceblue;
+    }
 `;
